@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Arvindcool2022
-- 👀 I’m interested in Web Devolpment
-- 🌱 I’m currently learning Frontend(REACT.JS)
-- 💞️ I’m looking to collaborate on any project that will help me improve
-- 📫 Reach me at arvindcool2022@gmail.com 
+👋 Hello, I'm @Arvindcool2022.
 
+👀 I specialize in React Development.
+
+🌱 Currently, I'm expanding my skill set by diving into Framer Motion.
+
+💞️ If you're interested in collaboration, feel free to reach out.
+
+📫 You can contact me at arvindcool2022@gmail.com.
